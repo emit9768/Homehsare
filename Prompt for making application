@@ -1,0 +1,321 @@
+Build a complete full-stack web application called:
+
+HOME SHARE 2.0 – VERIFIED COMMUNITY FOOD MARKETPLACE
+
+This is a B.Tech Major Project.
+
+The application connects:
+
+1. Customers
+2. Home Cooks (Sellers)
+3. Delivery Partners (Walkers)
+4. Administrators
+
+==================================================
+
+TECH STACK
+
+Frontend:
+
+* React
+* TypeScript
+* Tailwind CSS
+* React Router
+* Axios
+
+Backend:
+
+* Node.js
+* Express.js
+
+Database:
+
+* PostgreSQL
+
+Authentication:
+
+* JWT Authentication
+* Role Based Access Control
+
+==================================================
+
+APPLICATION GOAL
+
+Create a marketplace where verified home cooks can sell homemade food and verified delivery partners can deliver orders.
+
+The system must include:
+
+* KYC Verification
+* Trust Score System
+* Food Listings
+* Order Management
+* Reviews
+* Analytics Dashboard
+
+==================================================
+
+ROLES
+
+CUSTOMER
+
+SELLER
+
+WALKER
+
+ADMIN
+
+==================================================
+
+CUSTOMER FEATURES
+
+* Register
+* Login
+* Browse Food
+* Search Meals
+* Filter Meals
+* View Seller Profile
+* Add To Cart
+* Checkout
+* Track Orders
+* Order History
+* Reviews
+* Favorite Sellers
+
+==================================================
+
+SELLER FEATURES
+
+Seller Dashboard
+
+Statistics:
+
+* Revenue
+* Orders
+* Ratings
+* Active Listings
+
+Food Management:
+
+* Add Food
+* Edit Food
+* Delete Food
+* Upload Food Images
+
+Order Management:
+
+* Pending
+* Accepted
+* Preparing
+* Completed
+
+==================================================
+
+SELLER KYC
+
+Multi Step Form
+
+Personal Information
+
+Identity Verification
+
+* Aadhaar
+* PAN
+* Selfie
+
+Address Verification
+
+Kitchen Verification
+
+* Kitchen Photos
+* Cooking Area Photos
+
+Bank Verification
+
+Status:
+
+Pending
+Under Review
+Approved
+Rejected
+
+==================================================
+
+WALKER FEATURES
+
+Walker Dashboard
+
+* Available Deliveries
+* Active Deliveries
+* Earnings
+* Delivery History
+
+==================================================
+
+WALKER KYC
+
+Personal Details
+
+Identity Verification
+
+* Aadhaar
+* PAN
+* Selfie
+
+Vehicle Verification
+
+* Vehicle Number
+* Vehicle Photo
+
+Driving License Verification
+
+Bank Verification
+
+Status:
+
+Pending
+Approved
+Rejected
+
+==================================================
+
+ADMIN DASHBOARD
+
+Statistics:
+
+* Total Users
+* Total Sellers
+* Total Walkers
+* Total Orders
+* Total Revenue
+
+Management:
+
+* Approve Seller KYC
+* Reject Seller KYC
+* Approve Walker KYC
+* Reject Walker KYC
+* Manage Users
+* Manage Orders
+
+==================================================
+
+TRUST SCORE SYSTEM
+
+Seller Trust Score
+
+Identity Verification = 20%
+
+Kitchen Verification = 25%
+
+Customer Reviews = 30%
+
+Order Success Rate = 15%
+
+Complaint Ratio = 10%
+
+Seller Levels
+
+* Bronze
+* Silver
+* Gold
+* Platinum
+
+Walker Levels
+
+* Rookie
+* Trusted
+* Elite
+
+==================================================
+
+DATABASE TABLES
+
+Users
+
+Customers
+
+Sellers
+
+Walkers
+
+SellerKYC
+
+WalkerKYC
+
+FoodItems
+
+Orders
+
+Payments
+
+Reviews
+
+Deliveries
+
+Notifications
+
+==================================================
+
+ORDER WORKFLOW
+
+Seller uploads meal
+
+Customer places order
+
+Seller accepts order
+
+Walker assigned
+
+Walker picks up food
+
+Walker delivers food
+
+Customer confirms delivery
+
+Customer leaves review
+
+==================================================
+
+UI DESIGN
+
+Modern Startup Style
+
+Color Palette
+
+Primary:
+Orange
+
+Secondary:
+White
+
+Accent:
+Dark Gray
+
+Requirements
+
+* Responsive Design
+* Mobile Friendly
+* Professional Dashboard
+* Charts
+* Tables
+* Cards
+* Notifications
+
+==================================================
+
+DELIVERABLES
+
+Generate:
+
+* Full React Frontend
+* Express Backend
+* PostgreSQL Database Schema
+* Authentication System
+* Dashboard Pages
+* KYC Workflows
+* Trust Score System
+* CRUD APIs
+* Sample Data
+* API Documentation
+
+Create a complete runnable project with proper folder structure and clean code architecture.
