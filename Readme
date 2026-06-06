@@ -1,0 +1,90 @@
+HomeShare 2.0
+
+Verified Community Food Marketplace
+
+HomeShare is a community-driven platform that connects customers with verified home cooks and trusted delivery partners. The platform enables home cooks to sell homemade meals, customers to discover healthy local food, and delivery partners to earn through deliveries.
+
+Vision
+
+To build a trusted ecosystem where anyone can safely buy and sell homemade food while supporting local communities and entrepreneurship.
+
+Key Features
+
+Customer
+
+* Browse homemade meals
+* Search and filter food
+* Place orders
+* Track deliveries
+* Review sellers
+
+Seller (Home Cook)
+
+* KYC Verification
+* Food listing management
+* Order management
+* Earnings dashboard
+* Trust score system
+
+Walker (Delivery Partner)
+
+* KYC Verification
+* Delivery management
+* Earnings tracking
+* Performance dashboard
+
+Admin
+
+* User management
+* KYC approval system
+* Order monitoring
+* Analytics dashboard
+
+Trust & Safety
+
+HomeShare uses:
+
+* Aadhaar Verification
+* PAN Verification
+* Selfie Verification
+* Kitchen Verification
+* Vehicle Verification
+* Trust Score System
+
+Technology Stack
+
+Frontend:
+
+* React
+* Tailwind CSS
+
+Backend:
+
+* Java Spring Boot
+
+Database:
+
+* PostgreSQL
+
+Authentication:
+
+* JWT Authentication
+
+Project Status
+
+Current Phase:
+Research & Planning
+
+Future Features
+
+* AI Food Recommendations
+* Subscription Meal Plans
+* GPS Tracking
+* Corporate Catering
+* Nutrition Analysis
+
+Author
+
+Amit Kumar
+
+B.Tech Major Project
